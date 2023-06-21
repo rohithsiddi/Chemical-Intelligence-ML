@@ -1,4 +1,4 @@
-# Prediction of Relative Humidity of air using given data\
+# Prediction of Relative Humidity of air using given data
 Metric used - Accuracy score and confusion matrix\
 There are total of 16 Features\
 Feature to be predicted - RH_type\
